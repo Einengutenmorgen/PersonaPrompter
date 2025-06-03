@@ -1,0 +1,19 @@
+/.env
+/venv
+/data
+/Preprocessing/output_directory/usersmodels/lid.176.bin
+./__pycache__/
+/automatic_prompt_engineer/data
+/automatic_prompt_engineer/experiments
+/Preprocessing/output_directory/
+# Ignore Python cache files
+__pycache__/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+venv/
+# Ignore data directories
+data/
+# Ignore output directories
+output_directory/
+.env
